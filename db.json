@@ -1,0 +1,274 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "id": 1,
+      "apps": [
+        {
+          "id": 1,
+          "page": 1,
+          "name": "appstore",
+          "icon": "http://localhost:5000/image/app-store-2365235.svg",
+          "position": "main",
+          "data": []
+        },
+        {
+          "id": 2,
+          "page": 1,
+          "name": "camera",
+          "icon": "http://localhost:5000/image/camera-2365232.svg",
+          "position": "main",
+          "data": []
+        },
+        {
+          "id": 3,
+          "page": 1,
+          "name": "calendar",
+          "icon": "http://localhost:5000/image/calendar-2365233.svg",
+          "position": "main",
+          "data": []
+        },
+        {
+          "id": 4,
+          "page": 1,
+          "name": "clock",
+          "icon": "http://localhost:5000/image/clock-2365231.svg",
+          "position": "main",
+          "data": []
+        },
+        {
+          "id": 5,
+          "page": 1,
+          "name": "settings",
+          "icon": "http://localhost:5000/image/settings-2365240.svg",
+          "position": "main",
+          "data": [
+            {
+              "name": "fly",
+              "icon": "http://localhost:5000/settings-img/fly.svg"
+            },
+            {
+              "name": "wifi",
+              "icon": "http://localhost:5000/settings-img/wifi.svg"
+            },
+            {
+              "name": "bluetooth",
+              "icon": "http://localhost:5000/settings-img/bluetooth.svg"
+            },
+            {
+              "name": "radio",
+              "icon": "http://localhost:5000/settings-img/radio.svg"
+            },
+            {
+              "name": "sound",
+              "icon": "http://localhost:5000/settings-img/sound.svg"
+            },
+            {
+              "name": "sound",
+              "icon": "http://localhost:5000/settings-img/sound.svg"
+            },
+            {
+              "name": "image",
+              "icon": "http://localhost:5000/settings-img/image.svg"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "page": 1,
+          "name": "remindes",
+          "icon": "http://localhost:5000/image/reminders-2365242.svg",
+          "position": "main",
+          "data": []
+        },
+        {
+          "id": 7,
+          "page": 1,
+          "name": "photos",
+          "icon": "http://localhost:5000/image/photos-2365244.svg",
+          "position": "secondary",
+          "data": []
+        },
+        {
+          "id": 8,
+          "page": 1,
+          "name": "translate",
+          "icon": "http://localhost:5000/image/translate-2365238.svg",
+          "position": "secondary",
+          "data": []
+        },
+        {
+          "id": 9,
+          "page": 1,
+          "name": "weather",
+          "icon": "http://localhost:5000/image/weather-2365236.svg",
+          "position": "secondary",
+          "data": []
+        },
+        {
+          "id": 10,
+          "page": 1,
+          "name": "calculator",
+          "icon": "http://localhost:5000/image/calculator-1575939.svg",
+          "position": "secondary",
+          "component": "CalculatorApp",
+          "data": {
+            "nums": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              0
+            ],
+            "buttons": [
+              "+",
+              "-",
+              "/",
+              "*",
+              "AC",
+              "="
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "id": 2,
+      "apps": [
+        {
+          "id": 1,
+          "page": 1,
+          "name": "appstore",
+          "icon": "http://localhost:5000/image/app-store-2365235.svg",
+          "position": "main",
+          "data": []
+        },
+        {
+          "id": 2,
+          "page": 1,
+          "name": "camera",
+          "icon": "http://localhost:5000/image/camera-2365232.svg",
+          "position": "main",
+          "data": []
+        },
+        {
+          "id": 3,
+          "page": 1,
+          "name": "calendar",
+          "icon": "http://localhost:5000/image/calendar-2365233.svg",
+          "position": "main",
+          "data": []
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "id": 3,
+      "apps": [
+        {
+          "id": 1,
+          "page": 1,
+          "name": "appstore",
+          "icon": "http://localhost:5000/image/app-store-2365235.svg",
+          "position": "main",
+          "data": []
+        },
+        {
+          "id": 2,
+          "page": 1,
+          "name": "camera",
+          "icon": "http://localhost:5000/image/camera-2365232.svg",
+          "position": "main",
+          "data": []
+        },
+        {
+          "id": 3,
+          "page": 1,
+          "name": "calendar",
+          "icon": "http://localhost:5000/image/calendar-2365233.svg",
+          "position": "main",
+          "data": []
+        },
+        {
+          "id": 4,
+          "page": 1,
+          "name": "clock",
+          "icon": "http://localhost:5000/image/clock-2365231.svg",
+          "position": "main",
+          "data": []
+        },
+        {
+          "id": 5,
+          "page": 1,
+          "name": "settings",
+          "icon": "http://localhost:5000/image/settings-2365240.svg",
+          "position": "main",
+          "data": []
+        }
+      ]
+    }
+  ],
+  "pages_main": [
+    {
+      "id": 1,
+      "page": 1,
+      "name": "photos",
+      "icon": "http://localhost:5000/image/photos-2365244.svg",
+      "data": []
+    },
+    {
+      "id": 2,
+      "page": 1,
+      "name": "translate",
+      "icon": "http://localhost:5000/image/translate-2365238.svg",
+      "data": []
+    },
+    {
+      "id": 3,
+      "page": 1,
+      "name": "weather",
+      "icon": "http://localhost:5000/image/weather-2365236.svg",
+      "data": []
+    },
+    {
+      "id": 4,
+      "page": 1,
+      "name": "calculatro",
+      "icon": "http://localhost:5000/image/calculator-1575939.svg",
+      "data": []
+    }
+  ],
+  "background": [
+    {
+      "id": 1,
+      "img": "http://localhost:5000/background/background.jpg"
+    }
+  ],
+  "bar": {
+    "bar_battery": {
+      "percent": 30,
+      "img": "http://localhost:5000/bar-image/battery.svg"
+    },
+    "bar_clock": {
+      "date": "10.05.2021",
+      "time": "16:30"
+    },
+    "bar_internet": {
+      "rating": "3",
+      "img": "http://localhost:5000/bar-image/wifi.svg"
+    },
+    "bar_signal": {
+      "rating": "5",
+      "img": "http://localhost:5000/bar-image/signal.svg"
+    }
+  },
+  "icons": {
+    "name": "typicdsadasdasdasode"
+  }
+}
